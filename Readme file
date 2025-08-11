@@ -1,0 +1,45 @@
+# 📊 Brand & Product Performance Dashboard – Power BI
+
+## 📌 Overview
+The **Brand & Product Performance Dashboard** is an interactive Power BI solution that provides deep insights into sales performance by brand, product type, category, and region. It enables businesses to identify top-performing products, track sales trends, and monitor brand growth.
+
+---
+
+## 🗂 Dataset
+**Columns Used:**
+- Date
+- Product Name
+- Product Type
+- Brand
+- Gender
+- Category
+- Country
+- Quantity
+- Unit Price ($)
+- Amount ($)
+- Payment Mode
+
+---
+
+## 🎯 Key Features
+- **Top 5 Products by Sales** (dynamic ranking using DAX)
+- **Brand-wise Total Sales** slicer for quick filtering
+- **Sales Trends** over time
+- **Category-wise Performance** visualization
+- **Geographical Sales Heatmap**
+- **Interactive Filters** for brand, category, and region
+- **KPIs** for Total Sales, Quantity Sold, and Average Selling Price
+
+---
+
+## 📈 Visualizations
+- **Bar Chart** – Top 5 Products by Sales
+- **Clustered Column Chart** – Brand-wise Sales
+- **Line Chart** – Sales Trends over Time
+- **Map (Heatmap)** – Regional Sales Distribution
+- **Pie/Donut Chart** – Category Contribution
+- **KPIs Cards** – Total Sales, Quantity Sold
+- **Slicers** – Brand, Category, Product Type, Date Range
+
+---
+
